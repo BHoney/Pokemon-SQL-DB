@@ -20,7 +20,7 @@ The database is capable of storing the following:
         * Current Trainer
         * Movelist
         * Pokedex Entries
-    *Battles / Trades
+    * Battles / Trades
         * Participants
         * Winner (Battles Only)
         * Date of Battle / Trade
