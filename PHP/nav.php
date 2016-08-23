@@ -1,0 +1,2 @@
+<a href="player.php">Player</a> | <a href="pokemon.php">Pokemon</a> | <a href="movelist.php">Movelist</a> | <a href="stats.php">Stats</a>
+<a href="battle.php">Battle Records</a> | <a href="trade.php">Trade Records</a> |  <a href="dex.php">PokeDex</a>
