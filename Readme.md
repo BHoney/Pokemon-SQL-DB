@@ -1,6 +1,6 @@
-##Pokemon Database
+## Pokemon Database
 
-###For CSCI 332, Fall 2015
+### For CSCI 332, Fall 2015
 
 This respository is a back up for a simple PHP/SQL database dedicated to recording information for Pokemon writtern for CSCI332 Database Programming.
 The database is capable of storing the following:
